@@ -28,7 +28,7 @@
     <fragment
         android:id="@+id/thirdFragment"
         android:name="com.example.myapplication.thirdFragment"
-        android:label="@string/second_fragment_label"
+        android:label="third fragment"
         tools:layout="@layout/fragment_third">
 
         <action
